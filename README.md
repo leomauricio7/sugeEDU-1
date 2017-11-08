@@ -9,4 +9,4 @@ https://www.apachefriends.org/pt_br/index.html
 
 Se no caso o seu sistema operacional for o linux execute o seguinte comando no seu terminal: 
 
-  - $ sudo apt-get install apache2
+     - $ sudo apt-get install apache2
