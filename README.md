@@ -7,6 +7,6 @@ http://www.wampserver.com/en/
 
 https://www.apachefriends.org/pt_br/index.html
 
-Se no caso o seu sistema operacional for o linux execute o seguinte comando no seu terminal: 
+Se no caso o seu sistema operacional for o linux execute o seguinte comando no seu terminal para a instalação do  Apache: 
 
      - $ sudo apt-get install apache2
