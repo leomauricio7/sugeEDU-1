@@ -35,7 +35,7 @@
 					<div class="form-group">
 						<label class="col-sm-2 control-label">Turma: </label>
 						<div class="col-sm-10">
-							<select class="form-control" required name="turno" data-toggle="tooltip" data-placement="bottom" title="Turno">
+							<select class="form-control" required name="turma" data-toggle="tooltip" data-placement="bottom" title="Turno">
 							<option value="">Selecione</option>
 								<?php 
 									$sql_turma = mysqli_query($conn, "SELECT * from turma ORDER BY id");
