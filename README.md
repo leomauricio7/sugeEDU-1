@@ -11,4 +11,4 @@ Se no caso o seu sistema operacional for o linux execute o seguinte comando no s
 
      - $ sudo apt-get install apache2
 
-Depois de intalar o servidor faça o download do programa Mysql em seu computador.
+Depois de instalar o servidor faça o download do programa Mysql em seu computador.
