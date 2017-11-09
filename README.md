@@ -10,3 +10,5 @@ https://www.apachefriends.org/pt_br/index.html
 Se no caso o seu sistema operacional for o linux execute o seguinte comando no seu terminal para a instalação do  Apache: 
 
      - $ sudo apt-get install apache2
+
+Depois de baixar e instalar o servidor local faça o download do projeto SugeEDU e mova ele para dentro da pasta de localhost so seu servidor. 
