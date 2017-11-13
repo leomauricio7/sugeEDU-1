@@ -1,6 +1,6 @@
 <?php
 include("../conexao.php");
-
+session_start();
 $turma = utf8_decode($_POST['turma']);
 $turno = utf8_decode($_POST['turno']);
 $periodo = utf8_decode($_POST['periodo']);
